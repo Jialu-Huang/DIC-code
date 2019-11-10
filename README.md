@@ -3,7 +3,9 @@ Using DIC method to detect materials deformation
 
 ## Intro
   In this project, the first objective is to become familiar with Digital Image Correlation (DIC) techniques, and the interpretation and manipulation of the output data files from the DIC software and the final objective of the project is to identify and characterize the materials utilized in the test.
+  
   A similar test setup was used in the analysis of strain and shear stress fields obtained from a CFRP material which was bonded to a brick substrate. DIC was utilized in this experiment, as it is a reliable optical measurement system which can be utilized to carry out measurements for parameters such as strain. Traditionally, this type of measurement would require a strain gauge setup but the contact surface would inherently bring complexities and errors to the measurement. An epoxy was used to adhere the material for the test setup. For this experiment, the same procedure would be used. 
+  
   Prior to conducting the physical testing process, rough engineering calculations would be conducted to estimate a load to be applied and to have an understanding of the expected output results. 
 
 ## Material
