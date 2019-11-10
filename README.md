@@ -16,6 +16,7 @@ Material	        UTS	           Modulus of Elasticity 	         Poisson’s Rati
 Steel	            350 MPa	             200 GPa	                      0.25
 Aluminum 	        90 MPa	             68.3 GPa	                      0.34
   2.Objective function to be used:
+  
   σ (stress)= E  (Modulus)*ε (strain)
   
 ## Result
